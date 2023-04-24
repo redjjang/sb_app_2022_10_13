@@ -10,6 +10,6 @@ public class UserTestController {
   @RequestMapping("/user/home/main")
   @ResponseBody
   public String showMain() {
-    return "안녕하세요. 크라켄 브런치1";
+    return "안녕하세요. 크라켄 브런치2";
   }
 }
